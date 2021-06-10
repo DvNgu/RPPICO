@@ -1,0 +1,1 @@
+cho chân 15 trên raspberry pico nhấp nháy sau mỗi 0.5 giây
